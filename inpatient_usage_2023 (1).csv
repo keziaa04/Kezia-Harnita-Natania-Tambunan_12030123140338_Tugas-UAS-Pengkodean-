@@ -1,0 +1,11 @@
+"Obat_ID","Nama_Obat","Tanggal_Pemakaian","Jumlah_Unit","Harga_Pokok_Unit_IDR","Total_Nilai_Pemakaian_IDR"
+"OBT001","Paracetamol_500mg","2023-02-01",200,500,100000
+"OBT002","Amoxicillin_500mg","2023-03-15",100,2000,200000
+"OBT003","Omeprazole_20mg","2023-04-10",50,3000,150000
+"OBT004","Ibuprofen_400mg","2023-05-20",150,800,120000
+"OBT005","Cefixime_200mg","2023-06-25",30,5000,150000
+"OBT006","Loratadine_10mg","2023-07-30",100,1000,100000
+"OBT007","Metformin_500mg","2023-08-15",80,1500,120000
+"OBT008","Amlodipine_5mg","2023-09-05",120,1200,144000
+"OBT009","Salbutamol_4mg","2023-10-10",90,900,81000
+"OBT010","Dexamethasone_0.5mg","2023-11-20",200,600,120000
